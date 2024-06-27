@@ -1,2 +1,3 @@
 # MetaVQA-Training
-This is the training script used for MetaVQA
+## Under Construction
+We expect to release the initial version by June 29, 2024. Stay Tuned!
