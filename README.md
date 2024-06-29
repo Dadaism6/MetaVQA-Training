@@ -8,7 +8,7 @@ Our training script is adapted from [Salesforce LAVIS](https://github.com/salesf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/metavqa-training.git
+   git clone https://github.com/Dadaism6/MetaVQA-Training.git
    cd metavqa-training
    ```
 2. **Dependencies**:
